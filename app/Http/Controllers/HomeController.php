@@ -22,4 +22,8 @@ class HomeController extends Controller
         return view('cards');
     }
 
+    public function componentsII(){
+        return view('componentsII');
+    }
+
 }

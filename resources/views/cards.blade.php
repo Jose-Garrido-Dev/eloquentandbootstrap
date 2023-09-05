@@ -117,6 +117,177 @@
         </div>
     </div>
 
+        <hr><hr><hr>
+    <h1 class="display-1">card grid</h1>
+    <div class="container py-4">
+
+
+
+        <div class="row row-cols-4 g-4">
+            <div class="col">   
+                <div class="card bg-primary text-white" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>    
+                </div>
+            </div>
+
+            <div class="col">   
+                <div class="card bg-secondary text-white" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card bg-success text-white" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card bg-warning text-white" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card bg-light text-dark" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card bg-dark text-white" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card border-primary text-dark" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card border-warning text-primary" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col">   
+                <div class="card border-success text-dark" >
+
+                    <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+
+                    <div class="card-body">
+                        <h1 class="h5 card-title">Card title</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                    </div>
+                </div>  
+            </div>
+
+
+        </div>
+
+        <hr><hr><hr>
+        <h1 class="display-1">Cards group</h1>
+        <div class="container py-4">
+            <div class="card-group g-3">   
+                    <div class="card" >
+                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+    
+                        <div class="card-body">
+                            <h1 class="h5 card-title">Card title</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus  </p>
+                            <a href="" class="card-link">Enlace 1#</a>
+                            <a href="" class="card-link">Enlace 2#</a>
+                        </div>   
+                        <div class="card-footer">
+                            Este es el footer
+                        </div> 
+                    </div>
+
+                    <div class="card" >
+                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+    
+                        <div class="card-body">
+                            <h1 class="h5 card-title">Card title</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
+                            <a href="" class="card-link">Enlace 1#</a>
+                            <a href="" class="card-link">Enlace 2#</a>
+                        </div>  
+                        <div class="card-footer">
+                            Este es el footer
+                        </div> 
+
+                    </div>
+
+                    <div class="card" >
+                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2023/08/19/05/50/wolf-8199785_1280.png" alt="">
+    
+                        <div class="card-body">
+                            <h1 class="h5 card-title">Card title</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero labore architecto corrupti distinctio possimus </p>
+                            <a href="" class="card-link">Enlace 1#</a>
+                            <a href="" class="card-link">Enlace 2#</a>
+                        </div>    
+                        <div class="card-footer">
+                            Este es el footer
+                        </div> 
+                    </div>
+            </div>    
+        </div>
+
+
+
+    </div>
+
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 </body>

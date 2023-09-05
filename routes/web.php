@@ -31,3 +31,4 @@ Route::get('/content',[HomeController::class,'content'] );
 Route::get('/form',[HomeController::class,'form'] );
 Route::get('/components',[HomeController::class,'components'] );
 Route::get('/cards',[HomeController::class,'cards'] );
+Route::get('/componentsII',[HomeController::class,'componentsII'] );
