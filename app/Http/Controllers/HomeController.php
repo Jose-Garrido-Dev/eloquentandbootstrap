@@ -26,4 +26,9 @@ class HomeController extends Controller
         return view('componentsII');
     }
 
+    
+    public function utilidades(){
+        return view('utilidades');
+    }
+
 }
